@@ -1,0 +1,45 @@
+
+This is homework 1: question 1 : part01 MLP
+Training objective function,0.00277
+Test MSE,0.2509
+Training computing time,39.84 seconds
+Function evaluations,49128
+Gradient evaluations,1068
+
+This is homework 1: question 1 : part02 RBF
+Training objective function,0.00136
+Test MSE,0.1282
+Training computing time,900 seconds
+Function evaluations,5460
+Gradient evaluations,273
+
+This is homework 1: question 2 : part01 Extreme learning MLP
+Training objective function,0.0069
+Test MSE,0.4290
+Training computing time,25.6768 seconds
+Function evaluations,923
+Gradient evaluations,71
+
+This is homework 1: question 2 : part02 Extreme learning RBF
+Training objective function,0.00874
+Test MSE,0.7499
+Training computing time,7 minutes
+Function evaluations,176
+Gradient evaluations,22
+
+This is homework 1: question 3 :  Decomposition method(RBF)
+Training objective function,0.0140
+Test MSE,0.7395
+Training computing time,600 seconds
+Function evaluations,4
+Gradient evaluations,1
+
+
+
+
+
+
+
+
+
+
